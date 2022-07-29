@@ -30,3 +30,7 @@
      31, 1968 increases the mentorship eligible employees from 1549 to 56,859.  Much bigger pool of 
      employees to consider.
   4. Opening up the mentorship eligibility would result in 28,481 Engineers to mentor.
+![Count_mentorship_eligible](https://user-images.githubusercontent.com/107228424/181847545-ae23b746-0b18-4248-9071-bc29948dc80a.png)
+![Count_mentorship_eligible2](https://user-images.githubusercontent.com/107228424/181847555-5952dd96-dc88-4752-8fc6-7a759051c07a.png)
+![NoRetiringByTitle](https://user-images.githubusercontent.com/107228424/181847566-90ca9371-31a4-4260-88b6-7f9d461143be.png)
+![Total_curremp_title](https://user-images.githubusercontent.com/107228424/181847573-c0d467e9-c58e-4c00-8b59-73f54412e2c3.png)
