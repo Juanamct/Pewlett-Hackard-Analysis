@@ -16,10 +16,10 @@
      who were born between January 1, 1965 and December 31, 1965.
  
 ## Results:
-  1. # of retiring employees by title = 72,458
-  2. # of mentorship eligible employees = 1549
-  3. # total current employees = 240,124
-  4. # Engineers in retirement group = 36,291 & 748 Engineers in the mentorship eligile group
+  1. Retiring employees by title = 72,458
+  2. Mentorship eligible employees = 1549
+  3. Total current employees = 240,124
+  4. Engineers in retirement group = 36,291 & 748 Engineers in the mentorship eligile group
 
 ## Summary:
   1. retiring employees make up 20.14% (1/5th) of the total, current employees (that truly is a
